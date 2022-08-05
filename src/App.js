@@ -1,5 +1,4 @@
 import React from "react"
-import logo from './logo.svg';
 import './App.css';
 import "./test.css"
 // import 
@@ -7,11 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 // import single Button
 // import Button from "react-bootstrap/Button"
 
-
-
 import {Button, Alert, Card} from 'react-bootstrap'
-
-
 
 function App() {
   return (
